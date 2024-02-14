@@ -2275,7 +2275,7 @@ p {
   height: 45px;
   line-height: 45px;
   border-radius: 50%;
-  background-color: #38f9d7;
+  background-color: #e5c4b5;
   text-align: center;
   z-index: 99;
   -webkit-transition: all 0.3s ease-out 0s;
@@ -2286,6 +2286,6 @@ p {
   display: none; }
   .back-to-top:hover {
     color: #121212;
-    background-color: #38f9d7; }
+    background-color: #e5c4b5; }
 
 /*# sourceMappingURL=style.css.map */
